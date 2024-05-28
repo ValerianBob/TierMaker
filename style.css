@@ -1,0 +1,82 @@
+body
+{
+    background-color: black;
+    margin: 0;
+}
+
+.class 
+{
+    width: 150px;
+    height: 148px;
+
+    font-size: 54px;
+
+    text-align: center;
+}
+
+.S
+{
+    background-color: red;
+}
+
+.A
+{
+    background-color: orange;
+}
+
+.B
+{
+    background-color: yellow;
+}
+
+.C
+{
+    background-color: green;
+}
+
+.items 
+{
+    background-color: rgb(24, 25, 26);
+    height: 150px;
+    width: 1900px;
+}
+
+.wrapper
+{
+    display: flex;
+
+    margin-bottom: 10px;
+    border: 3px solid white;
+}
+
+.All_classes
+{
+    margin: 10px;
+}
+
+.All_items
+{
+    margin: 10px;
+    border: 3px solid white;
+
+    height: 250px;
+    width: 1880px;
+    background-color: rgb(24, 25, 26);
+}
+
+.upload
+{
+    margin: 10px;
+}
+
+img
+{
+    margin: 5px;
+    height: 140px;
+    width: 140px;
+}
+
+.draggable.dragging
+{
+    opacity: .5;
+}
